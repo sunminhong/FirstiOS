@@ -32,6 +32,6 @@ class ViewController: UIViewController {
         titleLabel.centerYAnchor.constraint(equalTo: view.centerYAnchor).isActive = true
     }
 
-
+    //git 테스트
 }
 
